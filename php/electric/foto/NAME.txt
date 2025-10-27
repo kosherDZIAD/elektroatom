@@ -1,8 +1,0 @@
-# Mapowanie nazw zdjęć w galerii
-# Format: zdjN=Nazwa do wyświetlenia
-# Przykład: zdj2=Maszyna drukująca
-
-zdj2=test1
-zdj3=Zdjęcie 3
-zdj4=Zdjęcie 4
-zdj5=Zdjęcie 5
